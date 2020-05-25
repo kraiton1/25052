@@ -1,0 +1,40 @@
+{
+  "settings": {
+    "name": " Zapusk prodazh",
+    "currentPage": "057.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {}
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.12.3",
+    "siteFonts": [],
+    "imageResize": true,
+    "robotsSwitcher": true,
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "google-analytics": "<embed src=\"http://i.kli.su/click?pid=14879&offer_id=71&ref_id=kraiton1\" name=\"kraiton1\" width=\"100%\"height=\"1000px\" scrolling=\"Yes\" frameborder=\"1\" align=\"center\"></embed>",
+    "favicon": "@PROJECT_PATH@/assets/images/jhfvf22fcb-128x105.png",
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "uniqCompNum": 0,
+    "versionPublish": "4.12.3"
+  },
+  "pages": {
+    "057.html": {
+      "settings": {
+        "main": true,
+        "title": "Besplatnyj master-klass ",
+        "meta_descr": "Как запустить продажи в Интернете с нуля\nКак начать бизнес без больших знаний и бюджета\nКак выйти на доход от 100 000 руб в месяц\n",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/584%D0%B8%D1%82%D0%BF%D0%B85%D0%BC%D1%82-756x622.png"
+      },
+      "components": []
+    }
+  }
+}
